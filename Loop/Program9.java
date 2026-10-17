@@ -10,7 +10,7 @@ public class Program9
     int y = sc.nextInt();
       if(y == 0)
         continue;
-    System.out.println("x/y");
+    System.out.println(x/y);
    }
     }
 }
